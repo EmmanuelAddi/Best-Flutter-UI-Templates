@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-ListView-On-Click-Open-Custom-Dialog/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-ListView-On-Click-Open-Custom-Dialog/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-ListView-On-Click-Open-Custom-Dialog/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Best-Flutter-UI-Templates/best_flutter_ui_templates/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Best-Flutter-UI-Templates/best_flutter_ui_templates/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Best-Flutter-UI-Templates/best_flutter_ui_templates/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/RestaurantAppUIKit/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/RestaurantAppUIKit/build" />
+      <excludeFolder url="file://$MODULE_DIR$/RestaurantAppUIKit/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_itemstack_listview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_itemstack_listview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_itemstack_listview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-Grocery-App-UI/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-Grocery-App-UI/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-Grocery-App-UI/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

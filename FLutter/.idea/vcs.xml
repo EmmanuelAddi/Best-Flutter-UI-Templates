@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Best-Flutter-UI-Templates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flutter-Grocery-App-UI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flutter-ListView-On-Click-Open-Custom-Dialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestaurantAppUIKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_itemstack_listview" vcs="Git" />
+  </component>
+</project>
