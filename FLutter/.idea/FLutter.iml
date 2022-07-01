@@ -18,6 +18,24 @@
       <excludeFolder url="file://$MODULE_DIR$/Flutter-Grocery-App-UI/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/Flutter-Grocery-App-UI/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Flutter-Grocery-App-UI/build" />
+      <excludeFolder url="file://$MODULE_DIR$/code_with_andrea_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/code_with_andrea_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/code_with_andrea_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/orilla_fresca_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/orilla_fresca_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/orilla_fresca_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-With-Asp.Net_Core_Web_Api-1/Flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-With-Asp.Net_Core_Web_Api-1/Flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter-With-Asp.Net_Core_Web_Api-1/Flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mpesa_flutter_plugin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mpesa_flutter_plugin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mpesa_flutter_plugin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mpesa_flutter_plugin/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mpesa_flutter_plugin/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mpesa_flutter_plugin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mpesa_demo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mpesa_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mpesa_demo/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
